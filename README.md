@@ -1,1 +1,1 @@
-# tic-tac-toe-IA
+# takin-IA
